@@ -11,7 +11,7 @@
 </p>
 
 
-| Latest Stable Release | Latest Nightly Relase | Upstream URL |
+| Latest Stable Release | Latest Nightly Release | Upstream URL |
 | :---: | :---: | :---: |
 | [Click here](https://github.com/pkgforge-dev/Azahar-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/pkgforge-dev/Azahar-AppImage-Enhanced/releases/tag/nightly) | [Click here](https://github.com/azahar-emu/azahar) |
 
