@@ -17,5 +17,7 @@ export DEPLOY_PIPEWIRE=1
 # Deploy dependencies
 quick-sharun /usr/bin/azahar* /usr/lib/libgamemode.so*
 
+# Additional changes can be done in between here
+
 # Turn AppDir into AppImage
 quick-sharun --make-appimage
